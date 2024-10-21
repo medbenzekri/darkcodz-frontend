@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { Code2, ShieldCheck, Store, Globe, Lock, UserCheck, AlertTriangle, Github, Star, GitFork, Send, Menu } from 'lucide-react'
+import { Code2, Store, Globe, Lock, UserCheck, AlertTriangle, Github, Star, GitFork, Send, Menu } from 'lucide-react'
 import Image from 'next/image'
 
 export default function DarkCodzLanding() {
